@@ -1,0 +1,11 @@
+{
+  "sourceMaps": true,
+  "comments": false,
+  "presets": [
+    "stage-1"
+  ],
+  "plugins": [
+    "add-module-exports",
+    "transform-es2015-modules-commonjs"
+  ]
+}
